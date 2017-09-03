@@ -14,3 +14,7 @@ function ninjaBabySelector() {
 function divSelector() {
   return $(".pics");
 }
+
+function fi"rstListItem() {
+  return $("ul#pic-list child-tag:first-child");
+}
